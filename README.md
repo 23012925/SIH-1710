@@ -11,15 +11,15 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
-### 1. Smart Navigation – Uses GPS and Indoor Positioning to help passengers find platforms, restrooms, ticket counters, and other facilities.
+1. Smart Navigation – Uses GPS and Indoor Positioning to help passengers find platforms, restrooms, ticket counters, and other facilities.
 
-### 2. AI Chatbot Assistance – A virtual assistant answers passenger queries about train schedules, ticketing, and lost-and-found services.
+2. AI Chatbot Assistance – A virtual assistant answers passenger queries about train schedules, ticketing, and lost-and-found services.
 
-### 3. Real-Time Alerts – Sends notifications for train delays, gate changes, crowd congestion, and emergency announcements.
+3. Real-Time Alerts – Sends notifications for train delays, gate changes, crowd congestion, and emergency announcements.
 
-### 4. Eco-Friendly Rewards – Encourages digital ticketing and sustainable travel with a reward points system for discounts.
+4. Eco-Friendly Rewards – Encourages digital ticketing and sustainable travel with a reward points system for discounts.
 
-### 5. Analytics Dashboard – Provides railway authorities with real-time data on passenger movement, facility usage, and emergency situations.
+5. Analytics Dashboard – Provides railway authorities with real-time data on passenger movement, facility usage, and emergency situations.
 
 
 ## Proposed Solution / Architecture Diagram
