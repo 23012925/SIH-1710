@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date: 01-03-2025
+## Date: 01-03-2025
 ## Register Number: 212223040072
 ## Name: JANARTHANAN K
 ## Problem Title
@@ -31,7 +31,29 @@ Ministry of Railway
 
 
 ## Technology Stack
+### Vuforia: For AR capabilities.
+
+### Unity: For developing the 3D and AR navigation system.
+
+### Google Maps API: For mapping and real-time location services.
+
+### Firebase: For real-time database and authentication.
+
+### React Native: For cross-platform mobile app development.
+
+### AWS: For cloud services and hosting.
 
 
 ## Dependencies
+### Mapping Service (10 days) – Integrate with a reliable mapping service like Google Maps or OpenStreetMap for accurate navigation.
+
+### Data Collection (30-45 days) – Gather and verify accurate station layouts, facility locations, and real-time updates for better navigation.
+
+### Budget Allocation (7 days) – Secure funding (₹50,000 - ₹1,00,000) for development, testing, and long-term maintenance of the system.
+
+### User Feedback Integration (Ongoing) – Continuously collect and implement user feedback to enhance the app’s features and usability.
+
+### Regulatory Approvals (15-30 days) – Obtain necessary permissions from railway authorities to deploy the system in stations.
+
+### Technical Support Setup (Ongoing) – Ensure continuous technical support for bug fixes, software updates, and troubleshooting.
 
