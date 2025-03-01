@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:jana
+# Date: 01-03-2025
+## Register Number: 212223040072
+## Name: JANARTHANAN K
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,12 +11,23 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+### 1. Smart Navigation – Uses GPS and Indoor Positioning to help passengers find platforms, restrooms, ticket counters, and other facilities.
+
+### 2. AI Chatbot Assistance – A virtual assistant answers passenger queries about train schedules, ticketing, and lost-and-found services.
+
+### 3. Real-Time Alerts – Sends notifications for train delays, gate changes, crowd congestion, and emergency announcements.
+
+### 4. Eco-Friendly Rewards – Encourages digital ticketing and sustainable travel with a reward points system for discounts.
+
+### 5. Analytics Dashboard – Provides railway authorities with real-time data on passenger movement, facility usage, and emergency situations.
 
 
 ## Proposed Solution / Architecture Diagram
+![architect](https://github.com/user-attachments/assets/869d42d9-1ead-4410-983f-f3311d7c8a8a)
 
 
 ## Use Cases
+![use case diagram](https://github.com/user-attachments/assets/d709e619-9901-4227-9153-6ecd6cd91df1)
 
 
 ## Technology Stack
